@@ -1,0 +1,5 @@
+var word // declare the variable
+word = 'bird' // assign value to variable
+console.log(word) // 'bird'
+word = 'dog' // assign another value to variable
+console.log(word) // 'dog'
